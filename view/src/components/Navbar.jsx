@@ -1,7 +1,7 @@
 import React from 'react'
 import { BrowserRouter, Link, Route, Routes } from 'react-router-dom'
 import { logo } from '../assets'
-import {CreatePost, Home}  from '../pages/index'
+import {CreatePost, Home}  from '../pages'
 
 
 export default function Navbar() {
